@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tourist</string>
+    <string name="title_activity_marqueur">Marqueur</string>
+    <string name="Maps">Maps</string>
+
+    <string name="affLocation">Afficher des repères</string>
+    <string name="addLocation">Ajouter votre position</string>
+
+    <string name="retour">Retour</string>
+    <string name="goMap">Carte</string>
+</resources>
